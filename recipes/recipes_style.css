@@ -5,10 +5,10 @@
 }
 
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  width: 600px;
+  width: 85%;
   margin: 12px auto;
   background-color: #eee;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
   font-size: 24px;
